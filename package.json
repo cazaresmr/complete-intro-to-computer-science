@@ -26,7 +26,8 @@
     "prismjs": "^1.26.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "xxhashjs": "^0.2.2"
   },
   "keywords": [
     "gatsby",
