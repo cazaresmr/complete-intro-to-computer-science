@@ -8,3 +8,5 @@ public/
 yarn-error.log
 lessons/solutions
 lessons/markdown
+*.markdown
+*.md
